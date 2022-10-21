@@ -1,2 +1,1 @@
-# ctf-writeups
-Akasec's CTF Writeups
+# Akasec's CTF Writeups
