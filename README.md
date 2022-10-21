@@ -3,8 +3,8 @@
 #### Categorized by challenges platform
 
 - [picoctf writeups](./picoctf)
-- [Hack the box writeups](./HTB_Challenges)
-- [42 CTF writeups](./42-CTF)
+- [Hack the box writeups](./HTB)
+- [42 CTF writeups](./42CTF)
 
 #### Categorized by ctf's year
 
