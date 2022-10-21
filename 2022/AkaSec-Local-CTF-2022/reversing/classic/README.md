@@ -17,8 +17,8 @@ so the function `encrypt_flag` xor's each character of the flag with `0x4D` and 
 
 ```java
 	for (byte b = 0; b < paramString.length(); b++) {
-      	stringBuilder.append(paramString.charAt(b) ^ 0x4D);
-      	stringBuilder.append(' ');
+			stringBuilder.append(paramString.charAt(b) ^ 0x4D);
+			stringBuilder.append(' ');
     	}
 ```
 Solving this is pretty simple, we take each element and xor it again with `0x4D`:
